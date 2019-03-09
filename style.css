@@ -77,3 +77,9 @@ main > .wrapper{
     left: 4px;
     top: 2px;
 }
+.key > button{
+   background: #ddd;
+   font-size: 12px;
+   border-radius: 2px; 
+   outline: none;
+}
